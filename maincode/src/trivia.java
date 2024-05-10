@@ -112,7 +112,7 @@ public class trivia{
         else{
             JOptionPane.showMessageDialog(null, "wrong no point");
             }
-            JOptionPane.showMessageDialog(null, "This is how many points you have " + points );
+            JOptionPane.showMessageDialog(null, "This is how many points you have " + points +"." );
 
     }
 
