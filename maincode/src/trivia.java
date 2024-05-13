@@ -114,7 +114,8 @@ public class trivia{
             JOptionPane.showMessageDialog(null, "wrong no point");
             }
             JOptionPane.showMessageDialog(null, "This is how many points you have " + points +"." );
-
+            
+            JOptionPane.showMessageDialog(null, "Thank you for playing ");
     }
 
     
