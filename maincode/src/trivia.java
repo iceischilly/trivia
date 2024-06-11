@@ -89,7 +89,7 @@ public class trivia{
         //sets variable guess5 to user input
         int Guess5 = myObj.nextInt();
         //if else loop for question5
-        if (Guess5 == 1){
+        if (Guess5 == 0){
             JOptionPane.showMessageDialog(null, "correct +1 point");
             points = points + 1;}
         else{
